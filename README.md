@@ -21,7 +21,7 @@ This boilerplate features all the latest tools and practices in the industry.
 To get a local copy of the code, clone it using git:
 
 ```
-git clone https://github.com/SafdarJamal/react-redux-firebase-auth.git
+git clone https://github.com/seniorweb0417/react-firebase.git
 cd react-redux-firebase-auth
 ```
 
